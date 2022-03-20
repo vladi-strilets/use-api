@@ -1,16 +1,16 @@
 {
   "name": "use-api-ts",
   "version": "0.0.0",
-  "description": "React dev friendly hook for your api",
+  "description": "React dev friendly and type-safe hook for your api",
   "main": "./lib/src/index.js",
   "files": [
     "lib/**/*"
   ],
   "scripts": {
     "build": "tsc",
-    "clean": "rm -rf ./lib/",
+    "clean": "rm -rf ./lib",
     "coverage": "codecov",
-    "lint": "eslint src",
+    "lint": "eslint ./src",
     "prepare": "husky install",
     "semantic-release": "semantic-release",
     "test:watch": "jest --watch",
