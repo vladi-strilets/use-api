@@ -1,6 +1,6 @@
 {
-  "name": "use-api",
-  "version": "0.0.0-development",
+  "name": "use-api-ts",
+  "version": "0.0.0",
   "description": "React dev friendly hook for your api",
   "main": "./lib/src/index.js",
   "files": [
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vladi-strilets/use-api.git"
+    "url": "git+https://github.com/vladi-strilets/use-api-ts.git"
   },
   "license": "MIT",
   "author": {
@@ -42,9 +42,9 @@
     "codecov"
   ],
   "bugs": {
-    "url": "https://github.com/vladi-strilets/use-api/issues"
+    "url": "https://github.com/vladi-strilets/use-api-ts/issues"
   },
-  "homepage": "https://github.com/vladi-strilets/use-api#readme",
+  "homepage": "https://github.com/vladi-strilets/use-api-ts#readme",
   "dependencies": {},
   "devDependencies": {
     "@types/jest": "^27.4.1",

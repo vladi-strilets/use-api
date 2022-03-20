@@ -1,4 +1,4 @@
-# use-api
+# use-api-ts
 
 [![npm package][npm-img]][npm-url]
 [![Build Status][build-img]][build-url]
@@ -13,7 +13,7 @@
 ## Install
 
 ```bash
-npm install use-api
+npm install use-api-ts
 ```
 
 ## Usage
@@ -24,16 +24,16 @@ npm install use-api
 
 ## API
 
-[build-img]: https://github.com/vladi-strilets/use-api/actions/workflows/release.yml/badge.svg
-[build-url]: https://github.com/vladi-strilets/use-api/actions/workflows/release.yml
-[downloads-img]: https://img.shields.io/npm/dt/use-api
-[downloads-url]: https://www.npmtrends.com/use-api
-[npm-img]: https://img.shields.io/npm/v/use-api
-[npm-url]: https://www.npmjs.com/package/use-api
-[issues-img]: https://img.shields.io/github/issues/vladi-strilets/use-api
-[issues-url]: https://github.com/vladi-strilets/use-api/issues
-[codecov-img]: https://codecov.io/gh/vladi-strilets/use-api/branch/master/graph/badge.svg
-[codecov-url]: https://codecov.io/gh/vladi-strilets/use-api
+[build-img]: https://github.com/vladi-strilets/use-api-ts/actions/workflows/release.yml/badge.svg
+[build-url]: https://github.com/vladi-strilets/use-api-ts/actions/workflows/release.yml
+[downloads-img]: https://img.shields.io/npm/dt/use-api-ts
+[downloads-url]: https://www.npmtrends.com/use-api-ts
+[npm-img]: https://img.shields.io/npm/v/use-api-ts
+[npm-url]: https://www.npmjs.com/package/use-api-ts
+[issues-img]: https://img.shields.io/github/issues/vladi-strilets/use-api-ts
+[issues-url]: https://github.com/vladi-strilets/use-api-ts/issues
+[codecov-img]: https://codecov.io/gh/vladi-strilets/use-api-ts/branch/master/graph/badge.svg
+[codecov-url]: https://codecov.io/gh/vladi-strilets/use-api-ts
 [semantic-release-img]: https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg
 [semantic-release-url]: https://github.com/semantic-release/semantic-release
 [commitizen-img]: https://img.shields.io/badge/commitizen-friendly-brightgreen.svg
